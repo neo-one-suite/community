@@ -7,8 +7,8 @@ This doc outlines the various responsibilities of contributor roles in NEO•ONE
 | Role | Responsibilities | Requirements | Defined by |
 | -----| ---------------- | ------------ | -------|
 | member | active contributor in the community | sponsored by 2 reviewers.  multiple contributions to the project. | NEO•ONE GitHub org member. |
-| reviewer | review contributions from other members | history of review and authorship | [OWNERS] file reviewer entry. |
-| approver | approve accepting contributions | highly experienced and active reviewer + contributor | [OWNERS] file approver entry|
+| reviewer | review contributions from other members | history of review and authorship | [OWNERS] file *reviewer* entry. |
+| approver | approve accepting contributions | highly experienced and active reviewer + contributor | [OWNERS] file *approver* entry|
 | owner | set direction and priorities for the project | demonstrated responsibility and excellent technical judgement for the project | [OWNERS] file *owners* entry |
 
 ## New contributors
@@ -70,7 +70,6 @@ List of contributions:
 - <PR reviewed / authored>
 - <Issue responded to>
 - <Issue responded to>
-
 ```
 
 ### Responsibilities and privileges
