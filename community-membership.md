@@ -81,6 +81,7 @@ List of contributions:
   - Tests consistently pass
   - Addresses bugs or issues discovered after code is accepted
 - They can be assigned to issues and PRs.
+- Eligible for contribution awards
 
 **Note:** members who frequently contribute code are expected to proactively perform code reviews and work towards
 becoming a primary *reviewer*.
@@ -116,6 +117,7 @@ They are knowledgeable about both the codebase and software engineering principl
 - Assigned test bugs related to area of expertise
 - Granted "read access" to NEO•ONE repo
 - May get a badge on PR and issue comments
+- Eligible for contribution awards
 
 ## Approver
 
@@ -145,6 +147,7 @@ interactions with other parts of the system, etc.
 - Expected to be responsive to review requests
 - Mentor contributors and reviewers
 - May approve code contributions for acceptance
+- Eligible for contribution awards
 
 ## Owner
 
@@ -180,6 +183,7 @@ of these responsibilities.
 - Ensure a healthy process for discussion and decision making is in place.
 - Work with other project owners to maintain the project's overall health and success holistically
 - Approve contribution rewards
+- Eligible for contribution awards
 
 [OWNERS]: OWNERS
 
